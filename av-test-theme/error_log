@@ -1,0 +1,4 @@
+[20-May-2023 19:49:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/avshop/shop.alexveil.com/wp-content/themes/av-test-theme/functions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/avshop/shop.alexveil.com/wp-content/themes/av-test-theme/functions.php on line 3
